@@ -1,7 +1,4 @@
-#!/usr/bin/env ruby
-
-require_relative '../lib/move.rb'
-
+require_relative 'lib/move.rb'
 puts "Welcome to Tic Tac Toe"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to go?"
